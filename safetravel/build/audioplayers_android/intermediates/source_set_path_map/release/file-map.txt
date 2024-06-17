@@ -1,0 +1,14 @@
+xyz.luan.audioplayers.audioplayers_android-jetified-window-1.0.0-beta04-0 C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\res
+xyz.luan.audioplayers.audioplayers_android-jetified-core-ktx-1.9.0-1 C:\Users\techn\.gradle\caches\transforms-3\9de03cb92cc636d75de9cfbc6e3f6850\transformed\jetified-core-ktx-1.9.0\res
+xyz.luan.audioplayers.audioplayers_android-core-1.9.0-2 C:\Users\techn\.gradle\caches\transforms-3\ba7713ca9045370c994a97e89719f9a9\transformed\core-1.9.0\res
+xyz.luan.audioplayers.audioplayers_android-jetified-window-java-1.0.0-beta04-3 C:\Users\techn\.gradle\caches\transforms-3\c132967ebfb7143f82aaee5ad8c6043e\transformed\jetified-window-java-1.0.0-beta04\res
+xyz.luan.audioplayers.audioplayers_android-lifecycle-runtime-2.3.1-4 C:\Users\techn\.gradle\caches\transforms-3\d8adf09754d9400d948dbb9ae6e0843b\transformed\lifecycle-runtime-2.3.1\res
+xyz.luan.audioplayers.audioplayers_android-jetified-annotation-experimental-1.3.0-5 C:\Users\techn\.gradle\caches\transforms-3\da5e209f407c372afbe7f45e911b7bd6\transformed\jetified-annotation-experimental-1.3.0\res
+xyz.luan.audioplayers.audioplayers_android-main-6 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-4.0.1\android\src\main\res
+xyz.luan.audioplayers.audioplayers_android-release-7 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-4.0.1\android\src\release\res
+xyz.luan.audioplayers.audioplayers_android-pngs-8 D:\Flutter-Map-Uber-Style-master\build\audioplayers_android\generated\res\pngs\release
+xyz.luan.audioplayers.audioplayers_android-resValues-9 D:\Flutter-Map-Uber-Style-master\build\audioplayers_android\generated\res\resValues\release
+xyz.luan.audioplayers.audioplayers_android-rs-10 D:\Flutter-Map-Uber-Style-master\build\audioplayers_android\generated\res\rs\release
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-11 D:\Flutter-Map-Uber-Style-master\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-12 D:\Flutter-Map-Uber-Style-master\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+xyz.luan.audioplayers.audioplayers_android-merged_res-13 D:\Flutter-Map-Uber-Style-master\build\audioplayers_android\intermediates\merged_res\release

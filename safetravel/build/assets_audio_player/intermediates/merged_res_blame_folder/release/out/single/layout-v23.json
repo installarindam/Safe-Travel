@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout-v23/exo_styled_player_control_rewind_button.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout-v23/exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout-v23/exo_styled_player_control_ffwd_button.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout-v23/exo_styled_player_control_ffwd_button.xml"
+    }
+]

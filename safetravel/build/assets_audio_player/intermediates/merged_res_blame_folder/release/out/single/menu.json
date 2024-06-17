@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/menu/example_menu.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/menu/example_menu2.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/menu/example_menu2.xml"
+    }
+]

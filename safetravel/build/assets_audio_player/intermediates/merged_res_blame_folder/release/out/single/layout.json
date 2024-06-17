@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_media.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_media_action.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_big_media.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_media_cancel_action.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_action_tombstone.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_action.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_player_control_view.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_player_control_view.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_media_custom.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_big_media_narrow.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_settings_list.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_settings_list.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_track_selection_dialog.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/custom_dialog.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_settings_list_item.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_settings_list_item.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_player_control_rewind_button.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_list_divider.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_big_media_custom.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_part_chronometer.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_sub_settings_list_item.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_sub_settings_list_item.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_player_control_view.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_custom_big.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_player_view.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_part_time.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_lines_media.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_icon_group.xml",
+        "source": "com.github.florent37.assets_audio_player-core-1.7.0-1:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_player_control_ffwd_button.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "com.github.florent37.assets_audio_player-media-1.6.0-12:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player-merged_res-19:/layout/exo_styled_player_view.xml",
+        "source": "com.github.florent37.assets_audio_player-jetified-exoplayer-ui-2.18.1-7:/layout/exo_styled_player_view.xml"
+    }
+]

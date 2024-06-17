@@ -1,0 +1,13 @@
+com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-0 C:\Users\techn\.gradle\caches\transforms-3\1a1dd5b809cec79ea0d1440b813f634c\transformed\core-1.6.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-1.0.0-beta04-1 C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-annotation-experimental-1.1.0-2 C:\Users\techn\.gradle\caches\transforms-3\7dd871ca80fb2c2b00f249ead490a8eb\transformed\jetified-annotation-experimental-1.1.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-browser-1.5.0-3 C:\Users\techn\.gradle\caches\transforms-3\b897566ffc745be14ffc4d6cd53b6913\transformed\browser-1.5.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-java-1.0.0-beta04-4 C:\Users\techn\.gradle\caches\transforms-3\c132967ebfb7143f82aaee5ad8c6043e\transformed\jetified-window-java-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-main-5 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-5.0.0\android\src\main\res
+com.aboutyou.dart_packages.sign_in_with_apple-release-6 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-5.0.0\android\src\release\res
+com.aboutyou.dart_packages.sign_in_with_apple-pngs-7 D:\Flutter-Map-Uber-Style-master\build\sign_in_with_apple\generated\res\pngs\release
+com.aboutyou.dart_packages.sign_in_with_apple-resValues-8 D:\Flutter-Map-Uber-Style-master\build\sign_in_with_apple\generated\res\resValues\release
+com.aboutyou.dart_packages.sign_in_with_apple-rs-9 D:\Flutter-Map-Uber-Style-master\build\sign_in_with_apple\generated\res\rs\release
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-10 D:\Flutter-Map-Uber-Style-master\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-11 D:\Flutter-Map-Uber-Style-master\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.aboutyou.dart_packages.sign_in_with_apple-merged_res-12 D:\Flutter-Map-Uber-Style-master\build\sign_in_with_apple\intermediates\merged_res\release

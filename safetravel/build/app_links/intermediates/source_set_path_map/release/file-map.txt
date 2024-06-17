@@ -1,0 +1,12 @@
+com.llfbandit.app_links-core-1.6.0-0 C:\Users\techn\.gradle\caches\transforms-3\1a1dd5b809cec79ea0d1440b813f634c\transformed\core-1.6.0\res
+com.llfbandit.app_links-jetified-window-1.0.0-beta04-1 C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\res
+com.llfbandit.app_links-jetified-annotation-experimental-1.1.0-2 C:\Users\techn\.gradle\caches\transforms-3\7dd871ca80fb2c2b00f249ead490a8eb\transformed\jetified-annotation-experimental-1.1.0\res
+com.llfbandit.app_links-jetified-window-java-1.0.0-beta04-3 C:\Users\techn\.gradle\caches\transforms-3\c132967ebfb7143f82aaee5ad8c6043e\transformed\jetified-window-java-1.0.0-beta04\res
+com.llfbandit.app_links-main-4 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\app_links-3.4.3\android\src\main\res
+com.llfbandit.app_links-release-5 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\app_links-3.4.3\android\src\release\res
+com.llfbandit.app_links-pngs-6 D:\Flutter-Map-Uber-Style-master\build\app_links\generated\res\pngs\release
+com.llfbandit.app_links-resValues-7 D:\Flutter-Map-Uber-Style-master\build\app_links\generated\res\resValues\release
+com.llfbandit.app_links-rs-8 D:\Flutter-Map-Uber-Style-master\build\app_links\generated\res\rs\release
+com.llfbandit.app_links-mergeReleaseResources-9 D:\Flutter-Map-Uber-Style-master\build\app_links\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.llfbandit.app_links-mergeReleaseResources-10 D:\Flutter-Map-Uber-Style-master\build\app_links\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.llfbandit.app_links-merged_res-11 D:\Flutter-Map-Uber-Style-master\build\app_links\intermediates\merged_res\release

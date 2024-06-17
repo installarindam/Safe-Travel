@@ -1,0 +1,247 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flutter_uber_location"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:3:9-83
+11-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:3:26-80
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:4:1-77
+12-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:4:18-74
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:5:1-73
+13-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:5:18-70
+14    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+14-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:6:5-84
+14-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:6:22-82
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:7:9-70
+15-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:7:26-68
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->[:camera_android] D:\Flutter-Map-Uber-Style-master\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+16-->[:camera_android] D:\Flutter-Map-Uber-Style-master\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+17-->[:camera_android] D:\Flutter-Map-Uber-Style-master\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-71
+17-->[:camera_android] D:\Flutter-Map-Uber-Style-master\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-68
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-66
+18-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-63
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-68
+19-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-65
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[:connectivity_plus] D:\Flutter-Map-Uber-Style-master\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+23-->[:connectivity_plus] D:\Flutter-Map-Uber-Style-master\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+24
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+28
+29    <queries>
+29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+30
+31        <!-- Needs to be explicitly declared on Android R+ -->
+32        <package android:name="com.google.android.apps.maps" />
+32-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+32-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+33    </queries>
+34
+35    <permission
+35-->[androidx.core:core:1.10.1] C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+36        android:name="com.example.flutter_uber_location.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+36-->[androidx.core:core:1.10.1] C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+37        android:protectionLevel="signature" />
+37-->[androidx.core:core:1.10.1] C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+38
+39    <uses-permission android:name="com.example.flutter_uber_location.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+39-->[androidx.core:core:1.10.1] C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+39-->[androidx.core:core:1.10.1] C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+40
+41    <application
+42        android:name="android.app.Application"
+42-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:10:9-42
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.10.1] C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+44        android:icon="@mipmap/launcher_icon"
+44-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:11:9-45
+45        android:label="SafeTravel" >
+45-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:9:9-35
+46        <activity
+46-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:12:9-32:20
+47            android:name="com.example.travel_safe.MainActivity"
+47-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:13:13-41
+48            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+48-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:17:13-163
+49            android:exported="true"
+49-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:14:13-36
+50            android:hardwareAccelerated="true"
+50-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:18:13-47
+51            android:launchMode="singleTop"
+51-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:15:13-43
+52            android:theme="@style/LaunchTheme"
+52-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:16:13-47
+53            android:windowSoftInputMode="adjustResize" >
+53-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:19:13-55
+54
+55            <!--
+56                 Specifies an Android theme to apply to this Activity as soon as
+57                 the Android process has started. This theme is visible to the user
+58                 while the Flutter UI initializes. After that, this theme continues
+59                 to determine the Window background behind the Flutter UI.
+60            -->
+61            <meta-data
+61-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:24:13-27:17
+62                android:name="io.flutter.embedding.android.NormalTheme"
+62-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:25:15-70
+63                android:resource="@style/NormalTheme" />
+63-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:26:15-52
+64
+65            <intent-filter>
+65-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:28:13-31:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:29:17-68
+66-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:29:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:30:17-76
+68-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:30:27-74
+69            </intent-filter>
+70        </activity>
+71        <!--
+72             Don't delete the meta-data below.
+73             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+74        -->
+75        <meta-data
+75-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:35:14-37:18
+76            android:name="com.google.android.geo.API_KEY"
+76-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:35:25-70
+77            android:value="AIzaSyBX-uyvUK_nVE79IP-ISwTN-HuBz3JDt6k" />
+77-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:36:16-71
+78        <meta-data
+78-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:38:9-40:33
+79            android:name="flutterEmbedding"
+79-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:39:13-44
+80            android:value="2" />
+80-->D:\Flutter-Map-Uber-Style-master\android\app\src\main\AndroidManifest.xml:40:13-30
+81
+82        <activity
+82-->[:url_launcher_android] D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+83            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+83-->[:url_launcher_android] D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+84            android:exported="false"
+84-->[:url_launcher_android] D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+85            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+85-->[:url_launcher_android] D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+86
+87        <receiver
+87-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-20:20
+88            android:name="com.github.florent37.assets_audio_player.notification.NotificationActionReceiver"
+88-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-108
+89            android:exported="true" >
+89-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-36
+90            <intent-filter>
+90-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-19:29
+91                <action android:name="android.intent.action.MEDIA_BUTTON" />
+91-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:17-77
+91-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:25-74
+92            </intent-filter>
+93        </receiver>
+94        <receiver
+94-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-27:20
+95            android:name="com.github.florent37.assets_audio_player.notification.CustomMediaButtonReceiver"
+95-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-107
+96            android:exported="true" >
+96-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-36
+97            <intent-filter>
+97-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-19:29
+98                <action android:name="android.intent.action.MEDIA_BUTTON" />
+98-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:17-77
+98-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:25-74
+99            </intent-filter>
+100        </receiver>
+101
+102        <service
+102-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-40:19
+103            android:name="com.github.florent37.assets_audio_player.notification.NotificationService"
+103-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-101
+104            android:enabled="true"
+104-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-35
+105            android:exported="true"
+105-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-36
+106            android:foregroundServiceType="mediaPlayback" >
+106-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-58
+107            <intent-filter>
+107-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:34:13-36:29
+108                <action android:name="android.media.browse.MediaBrowserService" />
+108-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:35:17-83
+108-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:35:25-80
+109            </intent-filter>
+110            <intent-filter>
+110-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-19:29
+111                <action android:name="android.intent.action.MEDIA_BUTTON" />
+111-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:17-77
+111-->[:assets_audio_player] D:\Flutter-Map-Uber-Style-master\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:25-74
+112            </intent-filter>
+113        </service>
+114        <service
+114-->[:location] D:\Flutter-Map-Uber-Style-master\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-17:56
+115            android:name="com.lyokone.location.FlutterLocationService"
+115-->[:location] D:\Flutter-Map-Uber-Style-master\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-71
+116            android:enabled="true"
+116-->[:location] D:\Flutter-Map-Uber-Style-master\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-35
+117            android:exported="false"
+117-->[:location] D:\Flutter-Map-Uber-Style-master\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+118            android:foregroundServiceType="location" />
+118-->[:location] D:\Flutter-Map-Uber-Style-master\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-53
+119
+120        <uses-library
+120-->[androidx.window:window:1.0.0-beta04] C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+121            android:name="androidx.window.extensions"
+121-->[androidx.window:window:1.0.0-beta04] C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+122            android:required="false" />
+122-->[androidx.window:window:1.0.0-beta04] C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+123        <uses-library
+123-->[androidx.window:window:1.0.0-beta04] C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+124            android:name="androidx.window.sidecar"
+124-->[androidx.window:window:1.0.0-beta04] C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+125            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+125-->[androidx.window:window:1.0.0-beta04] C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+126        <uses-library
+126-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+127            android:name="org.apache.http.legacy"
+127-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+128            android:required="false" />
+128-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\23d3ba4b9c9430498a2d37bf1083a8e9\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+129
+130        <activity
+130-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\26122ed33b1a29cda1765a3c6ed39a08\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+131            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+131-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\26122ed33b1a29cda1765a3c6ed39a08\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\26122ed33b1a29cda1765a3c6ed39a08\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+133-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\26122ed33b1a29cda1765a3c6ed39a08\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+134
+135        <meta-data
+135-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\8435c608dc11aec23a8235e2884813fc\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+136            android:name="com.google.android.gms.version"
+136-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\8435c608dc11aec23a8235e2884813fc\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+137            android:value="@integer/google_play_services_version" />
+137-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\techn\.gradle\caches\transforms-3\8435c608dc11aec23a8235e2884813fc\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+138    </application>
+139
+140</manifest>

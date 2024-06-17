@@ -1,0 +1,14 @@
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-0 C:\Users\techn\.gradle\caches\transforms-3\1ba8d05a0965080943586c494e0aa4b2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.10.1-1 C:\Users\techn\.gradle\caches\transforms-3\1ef430611002ea02c2a417d6a8e7a0fc\transformed\core-1.10.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-browser-1.5.0-2 C:\Users\techn\.gradle\caches\transforms-3\b897566ffc745be14ffc4d6cd53b6913\transformed\browser-1.5.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-3 C:\Users\techn\.gradle\caches\transforms-3\c132967ebfb7143f82aaee5ad8c6043e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-runtime-2.3.1-4 C:\Users\techn\.gradle\caches\transforms-3\d8adf09754d9400d948dbb9ae6e0843b\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.3.0-5 C:\Users\techn\.gradle\caches\transforms-3\da5e209f407c372afbe7f45e911b7bd6\transformed\jetified-annotation-experimental-1.3.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-main-6 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.1.0\android\src\main\res
+io.flutter.plugins.urllauncher.url_launcher_android-release-7 C:\Users\techn\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.1.0\android\src\release\res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-8 D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\generated\res\pngs\release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-9 D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\generated\res\resValues\release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-10 D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\generated\res\rs\release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-11 D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-12 D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-13 D:\Flutter-Map-Uber-Style-master\build\url_launcher_android\intermediates\merged_res\release

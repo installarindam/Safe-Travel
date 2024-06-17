@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.github.florent37.assets_audio_player_web-merged_res-10:/drawable/notification_icon_background.xml",
+        "source": "com.github.florent37.assets_audio_player_web-core-1.6.0-0:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player_web-merged_res-10:/drawable/notification_bg_low.xml",
+        "source": "com.github.florent37.assets_audio_player_web-core-1.6.0-0:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player_web-merged_res-10:/drawable/notification_bg.xml",
+        "source": "com.github.florent37.assets_audio_player_web-core-1.6.0-0:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.github.florent37.assets_audio_player_web-merged_res-10:/drawable/notification_tile_bg.xml",
+        "source": "com.github.florent37.assets_audio_player_web-core-1.6.0-0:/drawable/notification_tile_bg.xml"
+    }
+]
